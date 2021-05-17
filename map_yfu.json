@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
+                 "value":"https:\/\/player.twitch.tv\/?channel=1y2f3u4n5i6t7e8d9&parent=play.yfunited.yfu-deutschland.de"
                 }],
          "type":"tilelayer",
          "visible":false,
