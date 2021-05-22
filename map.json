@@ -496,21 +496,23 @@
                  "y":1666.04536551023
                 }, 
                 {
-                 "height":28,
+                 "height":48,
                  "id":11,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
+                     "halign":"center",
                      "pixelsize":10,
-                     "text":"DISCLAIMER: Wer auf der B\u00fchne steht, wird in einem \u00f6ffentlichen, \nnicht gelisteten, TWITCH Stream an das Plenum \u00fcbertragen",
+                     "text":"DISCLAIMER: Wer auf der B\u00fchne steht, wird in einem \u00f6ffentlichen, \nnicht gelisteten, TWITCH Stream an das Plenum \u00fcbertragen!",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":384,
-                 "x":1064,
-                 "y":1600.5
+                 "width":474,
+                 "x":1036,
+                 "y":1583.5
                 }],
          "opacity":1,
          "type":"objectgroup",
