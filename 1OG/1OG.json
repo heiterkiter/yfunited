@@ -372,7 +372,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/1OG\/1OG.json"
+                 "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
