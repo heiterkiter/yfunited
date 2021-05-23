@@ -307,7 +307,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/map.json#from_first_floor"
                 }],
          "type":"tilelayer",
          "visible":true,
