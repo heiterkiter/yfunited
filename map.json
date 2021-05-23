@@ -390,7 +390,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/1OG\/1OG.json"
+                 "value":".\/1OG\/1OG.json#Start"
                 }],
          "type":"tilelayer",
          "visible":true,
