@@ -707,21 +707,22 @@
                  "y":945.5
                 }, 
                 {
-                 "height":95.5,
+                 "height":113,
                  "id":20,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"Workshopr\u00e4ume ->",
+                     "halign":"right",
+                     "text":"1. Obergeschoss ->\nWorkshopr\u00e4ume ->\n",
                      "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":145,
-                 "x":1095.5,
+                 "width":257.5,
+                 "x":983,
                  "y":435.5
                 }, 
                 {
