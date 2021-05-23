@@ -45,6 +45,12 @@
          "id":38,
          "name":"ZoneTagungsplan",
          "opacity":0.15,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -62,6 +68,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/padlet.com\/embed\/awuevg8ogbpnoiq7"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,6 +86,12 @@
          "id":40,
          "name":"ZoneBravo",
          "opacity":0.15,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -87,6 +104,12 @@
          "id":54,
          "name":"ZoneELBE",
          "opacity":0.15,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
