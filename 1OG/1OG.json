@@ -305,9 +305,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#from_first_floor"
+                 "value":"https:\/\/play.yfunited.yfu-deutschland.de\/_\/global\/heiterkiter.github.io\/yfunited\/map.json#from_first_floor"
                 }],
          "type":"tilelayer",
          "visible":true,
