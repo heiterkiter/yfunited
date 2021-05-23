@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/1OG\/1OG.json#Start_from_roof"
+                 "value":"..\/1OG\/1OG.json#Start_from_Roof"
                 }],
          "type":"tilelayer",
          "visible":true,
