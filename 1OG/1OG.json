@@ -59,7 +59,7 @@
          "opacity":0.15,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/padlet.com\/embed\/awuevg8ogbpnoiq7"
                 }],
