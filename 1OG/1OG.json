@@ -307,6 +307,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/DACH\/roof.json#Start_from_first_floor"
+                }, 
+                {
+                 "name":"test",
+                 "type":"string",
+                 "value":"https:\/\/play.yfunited.yfu-deutschland.de\/_\/yfunited\/heiterkiter.github.io\/yfunited\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\map.json#Start"
+                 "value":"https:\/\/play.yfunited.yfu-deutschland.de\/_\/yfunited\/heiterkiter.github.io\/yfunited\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
