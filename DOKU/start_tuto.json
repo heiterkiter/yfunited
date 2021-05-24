@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/wa-village"
+                 "value":"..\map.json#Start"
                 }],
          "type":"tilelayer",
          "visible":true,
