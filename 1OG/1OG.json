@@ -627,8 +627,26 @@
                  "type":"",
                  "visible":true,
                  "width":150.404,
-                 "x":298.131333333333,
-                 "y":507.642066666667
+                 "x":304.798,
+                 "y":464.9754
+                }, 
+                {
+                 "height":38.0492,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Raum\nTornow",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":150.404,
+                 "x":295.464666666667,
+                 "y":163.642066666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -655,7 +673,7 @@
          "y":0
         }],
  "nextlayerid":56,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
