@@ -167,6 +167,25 @@
                  "width":147,
                  "x":610,
                  "y":1011.5
+                }, 
+                {
+                 "height":113,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "halign":"right",
+                     "text":"<- Tagungshaus",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":198.5,
+                 "x":348.75,
+                 "y":100.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -193,7 +212,7 @@
          "y":0
         }],
  "nextlayerid":48,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {

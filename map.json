@@ -1098,6 +1098,25 @@
                  "width":188.667,
                  "x":536.333166666667,
                  "y":1077.16666666667
+                }, 
+                {
+                 "height":50.3333333333333,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "halign":"right",
+                     "text":"Garten ->",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":111.833333333333,
+                 "x":1252.75,
+                 "y":151.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1124,7 +1143,7 @@
          "y":0
         }],
  "nextlayerid":52,
- "nextobjectid":31,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
