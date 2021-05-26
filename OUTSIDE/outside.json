@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#Start_from_first_floor"
+                 "value":"..\/map.json#Start_from_Garden"
                 }],
          "type":"tilelayer",
          "visible":true,
