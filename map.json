@@ -411,6 +411,17 @@
          "id":52,
          "name":"ZoneChallenge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/padlet.com\/lauramoeller2\/ak05zu14vagtbkpy"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":75,
