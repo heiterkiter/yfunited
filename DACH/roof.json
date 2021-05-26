@@ -142,15 +142,15 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"erster Stock",
+                     "text":"Treppe zum \n1. Obergeschoss\n",
                      "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":106.403666666667,
-                 "x":438.379701849526,
-                 "y":215.004187074248
+                 "width":168.876551699205,
+                 "x":458.107981333485,
+                 "y":200.755985224722
                 }],
          "opacity":1,
          "type":"objectgroup",
