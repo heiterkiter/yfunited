@@ -179,6 +179,24 @@
                  "width":168.876551699205,
                  "x":458.107981333485,
                  "y":200.755985224722
+                }, 
+                {
+                 "height":36.31,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Tagungsplan",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":168.877,
+                 "x":688.252446455075,
+                 "y":93.6385837424364
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -205,7 +223,7 @@
          "y":0
         }],
  "nextlayerid":57,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
