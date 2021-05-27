@@ -47,6 +47,11 @@
          "opacity":0.15,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/yfunited.wixsite.com\/start\/programm"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
