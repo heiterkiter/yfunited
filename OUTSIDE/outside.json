@@ -23,6 +23,11 @@
          "opacity":0.5,
          "properties":[
                 {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
@@ -232,12 +237,6 @@
  "nextlayerid":49,
  "nextobjectid":30,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

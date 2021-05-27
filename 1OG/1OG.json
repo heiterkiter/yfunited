@@ -378,6 +378,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
@@ -395,6 +400,11 @@
          "name":"Start_from_Ground_Floor",
          "opacity":1,
          "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"startLayer",
                  "type":"bool",
